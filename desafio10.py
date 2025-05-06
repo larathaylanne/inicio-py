@@ -4,3 +4,5 @@ reais=float(input("\nDigita aqui qual seu saldo atual: \n"))
 dolar= reais/5.71
 
 print("Legal!!! \nVocê pode comprar $",dolar,"\nEspero que aproveite muito e gaste com responsabilidade!")
+
+print()
