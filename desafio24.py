@@ -1,0 +1,1 @@
+cidade = input("Digite a cidade que")
